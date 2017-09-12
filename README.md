@@ -2,6 +2,8 @@
 
 > A todo app written in Vue.js
 
+![cover](docs/images/cover.png)
+
 ## Build Setup
 
 ``` bash
